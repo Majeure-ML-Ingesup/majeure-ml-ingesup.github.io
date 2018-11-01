@@ -1,0 +1,30 @@
+# Site settings
+title: Majeure ML Ingesup
+subtitle: Majeure Machine Learning Ingésup
+description: |
+    Ce site contient toutes les ressources associées à la Majeure Machine Learning donnée de Novembre à Décembre 2018 à Ingésup Bordeaux.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://majeure-machinelearning-ingesup.github.io" # the base hostname & protocol for your site
+syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/svm-rmarkdown-syllabus-example.pdf"
+githubdir: "ClementRomac/majeure-machinelearning-ingesup.github.io"
+
+# Author/user information
+email: "clement[dot]romac[at]ynov[dot]com pierre[dot]leroy[at]ynov[dot]com"
+twitter_username: 
+github_username:  
+authorurl: ""
+address:
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+
+# SEO stuff
+# google_author: ""
+# google_site_verification: ""
+# bing_webmastertools_id: ""
