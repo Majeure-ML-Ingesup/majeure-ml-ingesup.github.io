@@ -25,7 +25,7 @@ permalink: /slides/
 Voici les slides (<i class="fas fa-file-pdf"></i>) qui seront utilisés tout au long de la majeure :
 
 <ul id="archive">
-{% for lectures in site.data.lectures %}
+{% for lectures in site.data.slides %}
       <li class="archiveposturl">
         <span><a href="{{ site.url }}/{{ lectures.dirname }}/{{ lectures.filename }}.pdf">{{ lectures.title }}</a></span><br>
         <span class = "postlower">

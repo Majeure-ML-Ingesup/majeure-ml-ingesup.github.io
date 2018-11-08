@@ -1,0 +1,40 @@
+- title: "Chapitre 1 : Accueil"
+  filename: 1.1
+  dirname: slides
+  tldr: "Accueil et introduction du cours."
+
+- title: "Chapitre 1 : Introduction au Machine Learning"
+  filename: 1.2
+  dirname: slides
+  tldr: "Introduction au Machine Learning et ses concepts de base."
+
+- title: "Chapitre 2 : Les concepts derrière le Machine Learning"
+  filename: 2.1
+  dirname: slides
+  tldr: "Les concepts derrière le Machine Learning."
+
+- title: "Chapitre 2 : Data Preparation"
+  filename: 2.2
+  dirname: slides
+  tldr: "Preparation des données pour le Machine Learning."
+
+- title: "Chapitre 3 : La pipeline d'un projet ML"
+  filename: 3
+  dirname: slides
+  tldr: "Les solutions pour faire du Machine Learning et la pipeline d'un projet."
+
+- title: "Chapitre 4 : Les différentes techniques de Machine Learning"
+  filename: 4
+  dirname: slides
+  tldr: "Etat des lieux des différentes techniques et algorithmes de Machine Learning"
+
+- title: "Chapitre 5 : Introduction au Deep Learning"
+  filename: 5
+  dirname: slides
+  tldr: "Introduction au Deep Learning."
+
+- title: "Chapitre 6 : Architectures et Optimisation pour le Deep Learning"
+  filename: 5
+  dirname: slides
+  tldr: "Etat des lieux des différentes architectures de réseaux de neurones et des techniques d'optimisation."
+

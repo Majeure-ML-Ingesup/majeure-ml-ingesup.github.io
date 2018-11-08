@@ -18,9 +18,9 @@ conda env create -f majeure_ml_env.yml
 ```
 
 ### - VM Dataiku
-
-<br/>
-## Exercices
+Voici l'export de la VM que vous devez télécharger :
+- <a href="" download>Format VirtualBox</a>
+- <a href="" download>Format VMware</a>
 
 <br/><br/>
 # Ressources additionnelles
@@ -28,14 +28,12 @@ Ces ressources peuvent vous aider à approfondir certaines connaissances vues da
 
 ## MOOCs et cours
 
-- ml coursera
-- algebre lineaire edx
-- apprentissage auto youtube hugo larochelle
-- [Taking Good Notes](http://svmiller.com/blog/2014/09/taking-good-notes/)
-- [Fun with Attendance and Grades (i.e. Students Should Attend Class)](http://svmiller.com/blog/2016/05/fun-with-attendance-grades/)
-- [The Educational Power of Discomfort](http://svmiller.com/blog/2016/05/educational-power-discomfort/)
-- [Put Your Laptops Away, Kids (Vol. 2)](http://svmiller.com/blog/2016/05/put-your-laptops-away-2/)
+- [Machine Learning - Standford - Coursera](https://www.coursera.org/learn/machine-learning)
+- [Algebre Linéaire - EPFL - edX](https://www.edx.org/course/algebre-lineaire-partie-1-epflx-algebrex-1)
+- [Apprentissage Automatique - Hugo Larochelle - YouTube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYFD_rc1tttugXLfE2TcKyiO)
 
 ## Livres
 
-Garrison, Joshua. 2006. [The Fabulous Sylvester: The Legend, the Music, the Seventies in San Francisco](https://www.amazon.com/Fabulous-Sylvester-Legend-Seventies-Francisco/dp/0312425694/). Picador.
+Eric Biernat, Michel Lutz. 2015. [Data Science : fondamentaux et études de cas](https://www.amazon.fr/Data-science-fondamentaux-Machine-Learning/dp/2212142439). Eyrolles.
+
+Ian Goodfellow, Yoshua Bengio, Aaron Courville. 2016. [Deep Learning](https://www.amazon.fr/Deep-Learning-Yoshua-Bengio/dp/0262035618/). MIT Press.

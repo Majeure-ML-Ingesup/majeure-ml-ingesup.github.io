@@ -1,0 +1,24 @@
+- title: "Exercice - Chapitre 2 - Data Preparation"
+  filename: 1_data_prep
+  dirname: exercices
+  tldr: "Explorez et modifiez ces données pour les adapter au mieux au Machine Learning."
+
+- title: "Exercice - Chapitre 3 - Data Visualisation"
+  filename: 3_visualisation
+  dirname: exercices
+  tldr: "Explorez et utilisez Seaborn pour visualiser et mieux comprendre ce jeu de données."
+
+- title: "Exercice - Chapitre 3 - Numpy"
+  filename: 3_numpy
+  dirname: exercices
+  tldr: "Découvrez les fonctions de base de la librairie Numpy"
+
+- title: "Exercice - Chapitre 4 - Scikit-Learn"
+  filename: 4_sklearn
+  dirname: exercices
+  tldr: "Entraînez vos premiers algorithmes de Machine Learning et cherchez les meilleurs hyperparamètres !"
+
+- title: "TP Noté - Chapitre 4 - Kaggle"
+  filename: 4_tp
+  dirname: exercices
+  tldr: "Mettez en oeuvre tout ce qui a été vu précédemment sur un jeu de données de la plateforme Kaggle."
