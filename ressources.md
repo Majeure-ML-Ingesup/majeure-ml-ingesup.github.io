@@ -19,8 +19,9 @@ conda env create -f majeure_ml_env.yml
 
 ### - VM Dataiku
 Voici l'export de la VM que vous devez télécharger :
-- <a href="" download>Format VirtualBox</a>
-- <a href="" download>Format VMware</a>
+- <a href="" download>Cliquez ici</a>
+
+<i>User : majeurml / Password : majeurML</i>
 
 <br/><br/>
 # Ressources additionnelles
@@ -31,6 +32,7 @@ Ces ressources peuvent vous aider à approfondir certaines connaissances vues da
 - [Machine Learning - Standford - Coursera](https://www.coursera.org/learn/machine-learning)
 - [Algebre Linéaire - EPFL - edX](https://www.edx.org/course/algebre-lineaire-partie-1-epflx-algebrex-1)
 - [Apprentissage Automatique - Hugo Larochelle - YouTube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYFD_rc1tttugXLfE2TcKyiO)
+- [Deep Learning - DeepLearning.ai - Coursera](https://www.coursera.org/specializations/deep-learning)
 
 ## Livres
 
