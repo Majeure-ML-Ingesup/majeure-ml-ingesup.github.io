@@ -4,9 +4,9 @@ subtitle: Majeure Machine Learning Ingésup
 description: |
     Ce site contient toutes les ressources associées à la Majeure Machine Learning donnée de Novembre à Décembre 2018 à Ingésup Bordeaux.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://majeure-machinelearning-ingesup.github.io" # the base hostname & protocol for your site
+url: "http://majeure-ml-ingesup.github.io" # the base hostname & protocol for your site
 syllabus: 
-githubdir: "ClementRomac/majeure-machinelearning-ingesup.github.io"
+githubdir: "Majeure-ML-Ingesup/majeure-ml-ingesup.github.io"
 
 # Author/user information
 email: "clement[dot]romac[at]ynov[dot]com pierre[dot]leroy[at]ynov[dot]com"
