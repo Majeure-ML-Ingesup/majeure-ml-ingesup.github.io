@@ -19,7 +19,7 @@ conda env create -f majeure_ml_env.yml
 
 ### - VM Dataiku
 Voici l'export de la VM que vous devez télécharger :
-- <a href="" download>Cliquez ici</a>
+- <a href="https://mega.nz/#!g84nVQbS!5BUdE454KEVgyQ8UAx__z1lQfpN25zoKlyXjZEfDfS8" download>Cliquez ici</a>
 
 <i>User : majeurml / Password : majeurML</i>
 
