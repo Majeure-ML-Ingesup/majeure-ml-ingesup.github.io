@@ -19,3 +19,4 @@ dependencies:
   - pip:
     - tensorflow
     - keras
+    - xgboost
