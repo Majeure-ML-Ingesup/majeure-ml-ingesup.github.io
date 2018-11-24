@@ -22,3 +22,13 @@
   filename: 4_tp
   dirname: exercices
   tldr: "Mettez en oeuvre tout ce qui a été vu précédemment sur un jeu de données de la plateforme Kaggle."
+
+- title: "Exercice - Chapitre 5 - Perceptron"
+  filename: 5_perceptron
+  dirname: exercices
+  tldr: "Créez votre premier réseau de neurones avec Tensorflow."
+
+- title: "Exercice - Chapitre 5 - Deep Learning"
+  filename: 5_keras
+  dirname: exercices
+  tldr: "Mettez en oeuvre vos connaissances en Deep Learning dans un projet avec Keras"

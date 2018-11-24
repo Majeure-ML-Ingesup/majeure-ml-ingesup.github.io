@@ -29,12 +29,27 @@
   tldr: "Etat des lieux des différentes techniques et algorithmes de Machine Learning"
 
 - title: "Chapitre 5 : Introduction au Deep Learning"
-  filename: 5
+  filename: 5.1
   dirname: slides
   tldr: "Introduction au Deep Learning."
 
-- title: "Chapitre 6 : Architectures et Optimisation pour le Deep Learning"
-  filename: 5
+- title: "Chapitre 5 : Optimisation pour le Deep Learning"
+  filename: 5.2
   dirname: slides
-  tldr: "Etat des lieux des différentes architectures de réseaux de neurones et des techniques d'optimisation."
+  tldr: "Etat des lieux des différentes techniques d'optimisation."
+
+- title: "Chapitre 5 : Architectures"
+  filename: 5.3
+  dirname: slides
+  tldr: "Présentation des différentes architectures de réseaux de neurones."
+
+- title: "Chapitre 5 : Méthodologie"
+  filename: 5.4
+  dirname: slides
+  tldr: "Méthodologies à mettre en place pour un porjet de Deep Learning."
+
+- title: "Chapitre 6 : Biais et interprétabilité"
+  filename: 5.4
+  dirname: slides
+  tldr: "Ouverture sur les biais et l'interprétabilité des modèles de Machine Learning."
 
