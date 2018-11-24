@@ -11,7 +11,7 @@
 - title: "Exercice - Chapitre 3 - Numpy"
   filename: 3_numpy
   dirname: exercices
-  tldr: "Découvrez les fonctions de base de la librairie Numpy"
+  tldr: "Découvrez les fonctions de base de la librairie Numpy."
 
 - title: "Exercice - Chapitre 4 - Scikit-Learn"
   filename: 4_sklearn
@@ -28,7 +28,7 @@
   dirname: exercices
   tldr: "Créez votre premier réseau de neurones avec Tensorflow."
 
-- title: "Exercice - Chapitre 5 - Deep Learning"
+- title: "TP Noté - Chapitre 5 - Deep Learning"
   filename: 5_keras
   dirname: exercices
-  tldr: "Mettez en oeuvre vos connaissances en Deep Learning dans un projet avec Keras"
+  tldr: "Mettez en oeuvre vos connaissances en Deep Learning dans un projet avec Keras."
