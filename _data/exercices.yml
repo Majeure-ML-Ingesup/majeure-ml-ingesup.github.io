@@ -23,8 +23,8 @@
   dirname: exercices
   tldr: "Mettez en oeuvre tout ce qui a été vu précédemment sur un jeu de données de la plateforme Kaggle."
 
-- title: "Exercice - Chapitre 5 - Perceptron"
-  filename: 5_perceptron
+- title: "Exercice - Chapitre 5 - Feed Forward Neural Net"
+  filename: 5_tf
   dirname: exercices
   tldr: "Créez votre premier réseau de neurones avec Tensorflow."
 
