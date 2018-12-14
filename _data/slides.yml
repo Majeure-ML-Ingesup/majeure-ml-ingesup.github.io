@@ -49,7 +49,7 @@
   tldr: "Méthodologies à mettre en place pour un projet de Deep Learning."
 
 - title: "Chapitre 6 : Biais et interprétabilité"
-  filename: 5.4
+  filename: 6
   dirname: slides
   tldr: "Ouverture sur les biais et l'interprétabilité des modèles de Machine Learning."
 

@@ -40,3 +40,7 @@ Ces ressources peuvent vous aider à approfondir certaines connaissances vues da
 Eric Biernat, Michel Lutz. 2015. [Data Science : fondamentaux et études de cas](https://www.amazon.fr/Data-science-fondamentaux-Machine-Learning/dp/2212142439). Eyrolles.
 
 Ian Goodfellow, Yoshua Bengio, Aaron Courville. 2016. [Deep Learning](https://www.amazon.fr/Deep-Learning-Yoshua-Bengio/dp/0262035618/). MIT Press.
+
+## Autres
+
+- Machine Learning Canvas : [Article de Medium](https://medium.com/louis-dorard/from-data-to-ai-with-the-machine-learning-canvas-part-i-d171b867b047)
