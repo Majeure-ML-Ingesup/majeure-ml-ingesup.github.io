@@ -12,4 +12,7 @@ layout: default
 
 {{ site.description }}
 
+{% capture my_include %}{%  include syllabus.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
 </div>
