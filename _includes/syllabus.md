@@ -1,6 +1,6 @@
 ## Syllabus
 - Introduction au Machine Learning
-  - Régression linéaires
+  - Régression linéaire
   - Déscente de gradient
   - Underfitting / Overffiting
   - Régularisation
@@ -9,7 +9,7 @@
 - Data Preparation
   - Data Cleaning
   - One Hot Encoding
-  - Normalization / Standardization
+  - Normalisation / Standardisation
   - Validation croisée
   - Métriques
   ...
@@ -37,8 +37,8 @@
   - Backpropagation
 
 - Les réseaux de neurones
-  - Optimization
-    - Stochastic / Mini-batch / Batch Gradient Descent
+  - Optimisation
+    - Déscente de gradient stochastique / mini-batch / batch 
     - Learning Rate Decay
     - Adam
     - Régularisation / Dropout
@@ -67,4 +67,4 @@
 
 ## Evaluation
 
-Quizz à chaque chapitres et deux compétitions Kaggle.
+Quizz à chaque chapitre et deux compétitions Kaggle.
